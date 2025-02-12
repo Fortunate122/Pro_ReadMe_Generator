@@ -1,10 +1,10 @@
-# hello im here to teest
+# hello i am test
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
-im just testing
+i am test
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ im just testing
 
 ## Installation
 
-by testing it
+testing
 
 ## Usage
 
-created to test
+to test
 
 ## License
 
@@ -29,7 +29,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contributing
 
-i test
+test
 
 ## Tests
 
@@ -39,6 +39,6 @@ npm start
 
 For questions, you can reach out to me via:
 
-- GitHub: [testguy](https://github.com/testguy)
-- Email: testguy@gmail.com
+- GitHub: [Fortunate122](https://github.com/Fortunate122)
+- Email: davidsaldana122@gmail.com
 
